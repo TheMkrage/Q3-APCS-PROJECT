@@ -1,4 +1,4 @@
-package org.q3project.operators;
+package org.q3project.operators.assignment;
 
 public class AssignementExample {
 	public static void main(String[] args) {
