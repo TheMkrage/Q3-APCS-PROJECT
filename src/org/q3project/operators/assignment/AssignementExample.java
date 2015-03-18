@@ -10,7 +10,7 @@ public class AssignementExample {
 		int y = x + 3 * 2;
 
 		// - and / operators
-		int z = (y - 1) / 7;
+		int z = (8 - 1) / 7;
 
 		// % operator
 		int w = 5 % 2;

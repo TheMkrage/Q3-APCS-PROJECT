@@ -23,7 +23,7 @@ public class EqualityEqualOperatorExample {
 		}
 		
 		if( x > 5) {
-			System.out.println("GREATER OR EQUAL TO");
+			System.out.println("GREATER");
 		}
 	}
 
